@@ -1,16 +1,13 @@
-## Hi there 👋
+# Mohammad Nurudeen Mohammad — Portfolio Website
 
-<!--
-**dprof22-alt/dprof22-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This folder contains a ready-to-publish one-page portfolio website.
 
-Here are some ideas to get you started:
+## Files
+- `index.html` — the complete website
+- `assets/` — sanitized portfolio screenshots
+- `Mohammad_Nurudeen_Excel_Operations_Dashboard_Demo.xlsx` — downloadable portfolio workbook
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Publishing
+Upload the contents of this folder to a static website host such as GitHub Pages, Netlify, or Cloudflare Pages.
+
+The website uses only local files and does not require a database or paid hosting.
